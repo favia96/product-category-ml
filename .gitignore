@@ -1,0 +1,73 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# PyTest cache
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & models
+# NOTE: dataset/ ships with small, fake, hand-written sample CSVs that ARE
+# committed (see README > Dataset). Only ignore data dropped in by a user
+# who swaps in their own real dataset for local training.
+artifacts/
+checkpoints/
+runs/
+*.pt
+*.bin
+*.pkl
+*.joblib
+*.tsv
+*.parquet
+dataset/*.csv
+!dataset/en_us.csv
+!dataset/es_es.csv
+!dataset/it_it.csv
+!dataset/fr_fr.csv
+!dataset/pt_br.csv
+
+# Trained model artifacts (reproduce locally via train.py / the notebook)
+models/
+*.zip
+*.safetensors
+
+# Generated analysis outputs (reproduce locally via analyze_data.py)
+analysis_output/
+
+# Logs
+logs/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+product_name,brand_id,locale,category_id,category,product_brand
+Auriculares Inalámbricos Bluetooth,201,es_es,301,electronics,SoundWave
+Café Molido Espresso 250g,202,es_es,302,café,MorningRoast
+Queso Manchego Curado,204,es_es,304,queso,La Mancha Dorada
+Vino Tinto Reserva 750ml,210,es_es,311,vino,Oakridge Cellars
+Cerveza Artesanal Pack De 6,205,es_es,306,cerveza,Northgate Brewing
+Pasta Integral 500g,206,es_es,307,pasta,Bella Terra
+Juegos De Mesa Familiares,207,es_es,308,juegos,BrickWorks
+Libro De Bolsillo De Misterio,208,es_es,309,libros,Harborline Press
+Televisor Smart 55 Pulgadas 4K,209,es_es,310,tv,VistaVision
+Tableta Android 10 Pulgadas,211,es_es,312,tablet,PixelTab
+Papel Higiénico 12 Rollos,,es_es,313,papel higiénico,SoftCloud
+Filete De Salmón Fresco 400g,212,es_es,314,pescado,OceanCatch
+Leche De Almendras 1L,213,es_es,315,leche,PureHarvest
+iPhone 15 Pro 128GB,203,es_es,303,iphone,Apple
+Botella De Acero Inoxidable,,es_es,305,accesorios de cocina,HydroFlow

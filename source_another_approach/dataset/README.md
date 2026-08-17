@@ -1,0 +1,1 @@
+Place your own CSVs here. Columns: name, brand, category, [country]. No dataset is bundled with this sub-project — use the sample data under the repo's top-level `dataset/` (documented in the root README) or supply your own.
